@@ -15,10 +15,10 @@ Defined a function toremove any url ,punctuation , @ marks from the twittts and 
 Developed a Naive Bayes , Logistic classification, Support Vector Machine and Random Forest classifier models , among which logistic classifier performed best with accuracy of 80%.
 ![image](https://github.com/Shekharsittle/Twitter-Sentiment-Analysis/assets/127113185/b3241502-6722-4fcc-a623-1bab7ea96538)
 ## RNN
-Also developed a RNN model for classifying any tweet as negative and positive , upon which we can make an app by which we can judge whether the tweet is negative ir positive.The accuracy of the model came out to 77.28 percent which was quite good.
+Also developed a RNN model for classifying any tweet as negative and positive , upon which we can make an app by which we can judge whether the tweet is negative or positive.The accuracy of the model came out to 77.28 percent which was quite good.
 ![image](https://github.com/Shekharsittle/Twitter-Sentiment-Analysis/assets/127113185/7d18ba19-e61e-4b3f-beb2-96887604f073)
 ## Trending words
-Also we have got some positive and negative trneding words from datasets. By help of these word we could know what are possible trends which are going on in the world .
+Also we have got some positive and negative trending words from datasets. By help of these word we could know what are possible trends which are going on in the world .
 ![image](https://github.com/Shekharsittle/Twitter-Sentiment-Analysis/assets/127113185/cbc1aa67-c8b2-4ddd-96c0-80c166421426)
 ![image](https://github.com/Shekharsittle/Twitter-Sentiment-Analysis/assets/127113185/bbd8b1ad-2c1b-451c-b563-b51bac4747b4)
 
